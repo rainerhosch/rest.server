@@ -1,4 +1,3 @@
-# ci-restserver
-Check the recent version at https://github.com/chriskacerguis/codeigniter-restserver
-
-My alternate version https://github.com/ardisaurus/old-rest-ci
+#RestServer - Codeigniter v3
+using library codeigniter-restserver by chriskacerguis
+original link -> https://github.com/chriskacerguis/codeigniter-restserver
